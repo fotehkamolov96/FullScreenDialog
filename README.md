@@ -9,5 +9,6 @@ concepts through creative tools, one of which is the customizable UI dialog desi
 
 ## The final result looks like this:
 ```
-![HomeScreen](https://github.com/fotehkamolov96/FullScreenDialog/blob/main/assets/fullcustom.png?raw=true)
+You can see screenshots or a promo video of this project by going to the folder "FullScreenDialog/assets/videoapp.mp4"
 ```
+![HomeScreen](https://github.com/fotehkamolov96/FullScreenDialog/blob/main/assets/fullcustom.png?raw=true)
