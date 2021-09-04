@@ -1,6 +1,6 @@
 # FullScreenDialog
 
-This project was implemented relying on the Android full-screen dialog in [Material Design][1], 
+This project was implemented relying on the Android full-screen dialog in [MaterialDesign][1], 
 as described in the Material Design tutorial. It's a simple fullScreen Loader AlertDialog.
 For example please check app module's MainActivity.java class
 
@@ -10,4 +10,4 @@ concepts through creative tools, one of which is the customizable UI dialog desi
 ## The final result looks like this:
 
 
-[1]: (https://material.io/components/dialogs#confirmation-dialog)
+[1]: (https://material.io/components/dialogs)
