@@ -10,4 +10,4 @@ concepts through creative tools, one of which is the customizable UI dialog desi
 ## The final result looks like this:
 
 
-[1]:(https://material.io/components/dialogs#confirmation-dialog)
+[1]: (https://material.io/components/dialogs#confirmation-dialog)
