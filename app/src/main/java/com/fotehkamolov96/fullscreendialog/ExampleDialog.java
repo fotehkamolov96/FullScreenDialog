@@ -52,7 +52,7 @@ public class ExampleDialog extends DialogFragment {
     public void onViewCreated(View view, Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
         toolbar.setNavigationOnClickListener(v -> dismiss());
-        toolbar.setTitle("Full Screen Dealog");
+        toolbar.setTitle("FullScreen Dialog");
     }
 
 }
