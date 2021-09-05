@@ -7,7 +7,7 @@ With beautiful designs, you can open up new horizons every day by offering innov
 concepts through creative tools, one of which is the customizable **UI** dialog design.
 
 ---
-## How to run on your Android phone?
+## 📌 How to run on your Android phone?
 In order to have a look at the code files and understand the working, simply download this repository
 and open Android Studio and browse to the downloaded project and open it. It will load the project files and the code will be ready to run.
 
@@ -17,7 +17,7 @@ and open Android Studio and browse to the downloaded project and open it. It wil
 4. Ensure your Android phone is in debug mode. For example, see [here](https://www.kingoapp.com/root-tutorials/how-to-enable-usb-debugging-mode-on-android.htm).
 ---
 
-## The final result looks like this:
+## 📷 The final result looks like this:
 ```
 You can see screenshots or a promo video of this project by going to the folder:
 
