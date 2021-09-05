@@ -25,7 +25,7 @@ You can see screenshots or a promo video of this project by going to the folder:
 ```
 ![HomeScreen](https://github.com/fotehkamolov96/FullScreenDialog/blob/main/assets/fullcustom.png?raw=true)
 
-<h2 align="left">🌐 Connect</h2>
+## 👨🏻‍💻 Connect
 ```
 If you can have a question you write to me 👇🏻
 ```
