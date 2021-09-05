@@ -5,6 +5,7 @@ as described in the Material Design tutorial. It's a simple fullScreen Loader Al
 
 With beautiful designs, you can open up new horizons every day by offering innovative and thoughtful 
 concepts through creative tools, one of which is the customizable **UI** dialog design.
+
 ---
 ## How to run on your Android phone?
 In order to have a look at the code files and understand the working, simply download this repository
