@@ -1,4 +1,4 @@
-# FullScreenDialog
+# ✅ FullScreenDialog
 
 This project was implemented relying on the Android full-screen dialog in [Material Design](https://material.io/components/dialogs), 
 as described in the Material Design tutorial. It's a simple fullScreen Loader AlertDialog.
@@ -26,6 +26,7 @@ You can see screenshots or a promo video of this project by going to the folder:
 ![HomeScreen](https://github.com/fotehkamolov96/FullScreenDialog/blob/main/assets/fullcustom.png?raw=true)
 
 <h2 align="left">🌐 Connect</h2>
+If you can have a question you write to me 👇🏻
 <p align="left">
   <a href="https://www.facebook.com/foteh.kamoliddinov"><img title="Connect on Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="mailto:kamolovfoteh.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
