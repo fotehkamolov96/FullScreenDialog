@@ -8,6 +8,7 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
+    <!--Custom design CardView Dialog-->
     <Button
         android:id="@+id/opencustom"
         android:layout_width="match_parent"
@@ -17,11 +18,12 @@
         android:layout_marginEnd="20dp"
         android:background="@drawable/button_secondary_background"
         android:paddingBottom="3dp"
-        android:text="open custom"
+        android:text="custom"
         android:textAllCaps="false"
         android:textColor="@color/white"
         android:textSize="18sp" />
 
+    <!--Down Dialog. Animation from bottom to top-->
     <Button
         android:id="@+id/openfullscreen"
         android:layout_width="match_parent"
@@ -29,10 +31,24 @@
         android:layout_marginStart="20dp"
         android:layout_marginTop="18dp"
         android:layout_marginEnd="20dp"
-        android:layout_marginBottom="12dp"
         android:background="@drawable/button_secondary_background"
         android:paddingBottom="3dp"
-        android:text="open fullscreen"
+        android:text="fullscreen"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+    <!--Center fullscreen Dialog. Animation to center-->
+    <Button
+        android:id="@+id/opencenter"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="18dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/button_secondary_background"
+        android:paddingBottom="3dp"
+        android:text="center"
         android:textAllCaps="false"
         android:textColor="@color/white"
         android:textSize="18sp" />

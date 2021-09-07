@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">FullScreenDialog</string>
+    <string name="textone">Install the device few easy steps.</string>
+    <string name="texttwo">
+        Download and install the app from play store or app store. The app will guide you
+        through the configuration process. Live support is available to help you.
+    </string>
+    <string name="textthree">
+        Connect the device anywhere your home and turn it on. Then follow the guide
+        given by the app to configure. Make sure your home WiFi is working well.
+    </string>
+    <string name="textfour">
+        After completing the setup process according to the app guide, you should be ready to go.
+    </string>
 </resources>

@@ -33,6 +33,26 @@
         <item name="android:windowExitAnimation">@anim/slide_down</item>
     </style>
 
-
+    <style name="Theme.CenterDialog.Slide">
+        <item name="android:windowEnterAnimation">@anim/fade_in_200</item>
+        <item name="android:windowExitAnimation">@anim/fade_out_200</item>
+    </style>
+    <style name="Theme.CenterDialog" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:colorBackground">#EBEBEB</item>
+        <item name="android:navigationBarColor" tools:targetApi="lollipop">@color/purple_700
+        </item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
 
 </resources>

@@ -18,22 +18,16 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
-        ((Button) findViewById(R.id.opencustom)).setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                showDialogImageCenter();
-            }
-        });
-        ((Button) findViewById(R.id.openfullscreen)).setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                showDialogImageFull();
-            }
-        });
+        /*Button click Custom*/
+        ((Button) findViewById(R.id.opencustom)).setOnClickListener(v -> showDialogImageCenter());
+        /*Button click DownFull*/
+        ((Button) findViewById(R.id.openfullscreen)).setOnClickListener(v -> showDialogImageFull());
+        /*Button click Center*/
+        ((Button) findViewById(R.id.opencenter)).setOnClickListener(v -> centerDialog());
 
     }
 
+    /* Custom design CardView Dialog */
     private void showDialogImageCenter() {
         final Dialog dialog = new Dialog(this);
         dialog.requestWindowFeature(Window.FEATURE_NO_TITLE); // before
@@ -43,8 +37,14 @@ public class MainActivity extends AppCompatActivity {
         dialog.show();
     }
 
+    /*Down Dialog. Animation from bottom to top*/
     private void showDialogImageFull() {
         ExampleDialog.display(getSupportFragmentManager());
+    }
+
+    /*Center fullscreen Dialog. Animation to center*/
+    private void centerDialog() {
+        CenterDialog.display(getSupportFragmentManager());
     }
 
 
